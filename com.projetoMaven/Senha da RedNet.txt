@@ -1,6 +1,0 @@
-banco: eder_teste
-usuario: eder_aleph_teste
-senha: senhadevagabundo
-IP: 45.238.228.7
-
-acesso: http://s1-w.redenetprovedor.com.br/phpmyadmin/

@@ -1,6 +1,0 @@
-banco: id16431651_bd_jpa
-usuario: id16431651_projetojpamaven
-senha: @mAvEnjpAprOjEtO12345
-
-acesso: https://www.000webhost.com/members/website/e7interactive/database
-senha do google
